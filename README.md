@@ -9,8 +9,8 @@ Follow these steps to setup the app:
 
 # Note
 
-To deploy in github pages initial routename changed repository name.
-If you want try this codebase in your local, please after `npm start` please navigate to `http://localhost:3000/carlzeiss-task/`
+To deploy in github pages initial route name changed to repository name.
+If you want to try this codebase in your local, please after `npm start` please navigate to `http://localhost:3000/carlzeiss-task/`
 
 # Task
 
