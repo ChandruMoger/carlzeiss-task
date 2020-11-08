@@ -14,7 +14,7 @@ import "./App.css";
 class App extends Component {
   render() {
     return (
-      <Router basename="/">
+      <Router>
         <div className="App container">
             <Navbar></Navbar>
             <Switch> 
