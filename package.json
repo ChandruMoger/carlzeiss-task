@@ -2,7 +2,7 @@
   "name": "carlzeiss-task",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://ChandruMoger.github.io/carl-zeiss",
+  "homepage": "http://ChandruMoger.github.io/carlzeiss-task",
   "dependencies": {
     "axios": "^0.21.0",
     "enzyme": "^3.10.0",
