@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/carlzeiss-task/precache-manifest.ce6c1459c37de99ce492df7fc2d9c652.js"
+  "/carlzeiss-task/precache-manifest.57c9ddad27228da27dbb82412adbe442.js"
 );
 
 workbox.clientsClaim();
