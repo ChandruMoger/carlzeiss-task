@@ -81,7 +81,7 @@ class Login extends Component {
                     }, () => {
                         if(this.state.emailValid && this.state.passwordValid) {
                             localStorage.setItem('user', this.state.password);
-                            this.props.history.push("/");
+                            this.props.history.push("/carlzeiss-task");
                         }
                     })
                  }

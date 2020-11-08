@@ -7,6 +7,11 @@ Follow these steps to setup the app:
 1. `npm install` – install dependencies
 3. `npm start` – serve the app at [http://localhost:3000/](http://localhost:3000/) (it automatically opens the app in your default browser)
 
+# Note
+
+To deploy in github pages initial routename changed repository name.
+If you want try this codebase in your local, please after `npm start` please navigate to `http://localhost:3000/carlzeiss-task/`
+
 # Task
 
  1. Create a react application using CRA with react version 16.x satisfying the following criteria:

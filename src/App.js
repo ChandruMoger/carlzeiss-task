@@ -5,6 +5,7 @@ import Login from "./components/Login";
 import Posts from "./components/Posts";
 import Users from "./components/Users";
 import BlogDetails from "./components/BlogDetails";
+import NotFound from './components/NotFound';
 import {
   BrowserRouter as Router,
   Switch,
@@ -18,7 +19,7 @@ class App extends Component {
         <div className="App container">
             <Navbar></Navbar>
             <Switch> 
-              <Route exact path='/' component={Home}></Route> 
+              <Route exact path='/carlzeiss-task' component={Home}></Route> 
               <Route path='/login' component={Login}></Route> 
               <Route exact path='/posts' component={Posts}></Route> 
               <Route exact path='/users' component={Users}></Route> 
