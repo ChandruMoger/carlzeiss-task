@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "918786adfdadc7dfdca4",
-    "url": "/carlzeiss-task/static/css/main.2a3c2f7d.chunk.css"
+    "revision": "0143c9b478b743eff54f",
+    "url": "/carlzeiss-task/static/css/main.42c26a93.chunk.css"
   },
   {
-    "revision": "918786adfdadc7dfdca4",
+    "revision": "0143c9b478b743eff54f",
     "url": "/carlzeiss-task/static/js/main.6d7ae426.chunk.js"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/carlzeiss-task/static/media/OpenSans-Regular.669bf559.woff2"
   },
   {
-    "revision": "d50febbe4bcb03fc7273466f27377bc6",
+    "revision": "4133f096dd655ebdd3b0c690b915a271",
     "url": "/carlzeiss-task/index.html"
   }
 ];
